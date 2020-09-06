@@ -2,7 +2,7 @@
 	"name" : "Egloo",
 	"version" : 1,
 	"creationdate" : 3651579870,
-	"modificationdate" : 3653904155,
+	"modificationdate" : 3682224471,
 	"viewrect" : [ 50.0, 95.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,144 +15,77 @@
 				"local" : 1
 			}
 ,
-			"Superstructure.maxpat" : 			{
+			"Superstructure_Telecommande.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 
 		}
 ,
 		"media" : 		{
-			"egloo_awake_2.aif" : 			{
+			"SEQUENCE#1_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"egloo_happy_arp.aif" : 			{
+			"SEQUENCE#2_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"egloo_xyloloop.aif" : 			{
+			"SEQUENCE#3_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Sound_egloo_1-1.wav" : 			{
+			"SEQUENCE#4_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Sound_egloo_2-1.wav" : 			{
+			"SEQUENCE#5_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Sound_egloo_3-1.wav" : 			{
+			"SEQUENCE#6_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Sound_egloo_4-1.wav" : 			{
+			"SEQUENCE#7_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Sound_egloo_5-1.wav" : 			{
+			"SEQUENCE#8_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"VoixOff_egloo_1-1.wav" : 			{
+			"doudouSleep+snore_FONDU.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"VoixOff_egloo_1-2.wav" : 			{
+			"doudouSleep+baillev2_FONDU.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"VoixOff_egloo_2-1.wav" : 			{
+			"SEQUENCE#7_v2(1).wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"VoixOff_egloo_2-2.wav" : 			{
+			"SEQUENCE#9_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"VoixOff_egloo_2-3.wav" : 			{
+			"SEQUENCE#10_v2.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_2-4.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_3-1.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_3-2.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_3-3.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_4-1.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_4-2.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_5-1.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_6-1.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_6-2.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_6-3a.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_6-3b.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"VoixOff_egloo_7-1.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-
-		}
-,
-		"other" : 		{
-			"VoixOff_egloo_1-1.pkf" : 			{
-				"kind" : "file",
 				"local" : 1
 			}
 
