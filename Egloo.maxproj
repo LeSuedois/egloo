@@ -2,7 +2,7 @@
 	"name" : "Egloo",
 	"version" : 1,
 	"creationdate" : 3651579870,
-	"modificationdate" : 3682224471,
+	"modificationdate" : 3683092133,
 	"viewrect" : [ 50.0, 95.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -24,6 +24,16 @@
 		}
 ,
 		"media" : 		{
+			"doudouSleep+snore_FONDU.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"doudouSleep+baillev2_FONDU.wav" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
 			"SEQUENCE#1_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
@@ -64,12 +74,12 @@
 				"local" : 1
 			}
 ,
-			"doudouSleep+snore_FONDU.wav" : 			{
+			"SEQUENCE#9_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"doudouSleep+baillev2_FONDU.wav" : 			{
+			"SEQUENCE#10_v2.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
@@ -79,12 +89,7 @@
 				"local" : 1
 			}
 ,
-			"SEQUENCE#9_v2.wav" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"SEQUENCE#10_v2.wav" : 			{
+			"doudou gilis + rigole.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
